@@ -5,8 +5,8 @@ clc
 a = 10;
 b = 5;
 
-c = a/30;
-d = b/30;
+c = a/300;
+d = b/300;
 
 Flecha = funcion_entregable_2(a,b,c,d,  2/3*a  ,  b/2  );
 
